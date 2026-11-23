@@ -2,7 +2,7 @@
 # Combined Python programs (Tasks 1-18)
 
 # Task 1: Print name, department, and college on separate lines
-print("Janani")
+print("Hemant")
 print("Computer Science and Engineering")
 print("JAIN UNIVERSITY")
 
@@ -58,7 +58,7 @@ print("Python is Easy")
 
 
 # Task 10: Store and print a name
-name = "Janani"
+name = "Hemant"
 print(name)
 
 
